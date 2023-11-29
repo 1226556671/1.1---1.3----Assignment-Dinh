@@ -266,6 +266,8 @@ input:checked ~ label {
 #img-grid img {
 	width: 100%;
 }
+
+/* ----- PLAN YOUR TRIP----- */
 #plan h3{
     position:relative; top:5px;
 }
